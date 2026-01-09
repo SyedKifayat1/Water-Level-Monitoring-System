@@ -12,7 +12,8 @@
   "main": "mqtt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node seedData.js"
   },
   "keywords": [],
   "author": "",
