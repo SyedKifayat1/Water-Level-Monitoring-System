@@ -182,7 +182,7 @@ npm start
 ```
 ✅ MongoDB Connected
 🔧 MQTT Configuration:
-   Host: 7e4c038b50f24cb5bbe6e26e042255f7.s1.eu.hivemq.cloud
+   Host: xxxxxxx.s1.eu.hivemq.cloud
    Port: 8883
    Protocol: mqtts
 ✅ MQTT Connected
